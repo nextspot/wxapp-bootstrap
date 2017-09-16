@@ -11,8 +11,8 @@
     ],
     "window": {
         "backgroundTextStyle": "light",
-        "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "WeChat",
-        "navigationBarTextStyle": "black"
+        "navigationBarBackgroundColor": "#563D7C",
+        "navigationBarTitleText": "WXAPP-BOOTSTRAP",
+        "navigationBarTextStyle": "white"
     }
 }
