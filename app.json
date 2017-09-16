@@ -1,7 +1,13 @@
 {
     "pages": [
         "pages/index/index",
-        "pages/logs/logs"
+        "pages/logs/logs",
+        "pages/components/forms/forms",
+        "pages/components/card/card",
+        "pages/components/button-group/button-group",
+        "pages/components/buttons/buttons",
+        "pages/components/input-group/input-group",
+        "pages/components/list-group/list-group"
     ],
     "window": {
         "backgroundTextStyle": "light",
